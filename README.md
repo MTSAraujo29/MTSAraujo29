@@ -1,4 +1,4 @@
-### Olá👋, eu sou Matheus Ferreira, estudade de TI e um futuro programador🧑‍💻!!
+### Olá👋, eu sou Matheus Ferreira, estudade de CC e um futuro programador🧑‍💻!!
 
 
 <div style="display: inline_block"><br>
