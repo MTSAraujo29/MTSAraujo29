@@ -9,6 +9,7 @@
   <img align="center" alt="MTS-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="MTS-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="MTS-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="MTS-NODEJS" height="30" width="40" src="file:///C:/Users/matheus.araujo/Desktop/nj.svg">
 </div>
   
   ##
