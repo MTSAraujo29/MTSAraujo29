@@ -1,8 +1,8 @@
 ### Olá 👋, eu sou Matheus Ferreira de Araújo, estudante de Ciência da Computação e um futuro programador 🧑‍💻!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Matheus" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MTSaraujo29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Matheus" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTSaraujo29&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
@@ -37,20 +37,4 @@ Minha stack de desenvolvimento inclui (mas não se limita a) as seguintes tecnol
   <img align="center" alt="MTS-React" title="React.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MTS-MySQL" title="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MTS-MongoDB" title="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="MTS-Git" title="Git" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="MTS-Arduino" title="Arduino (IoT)" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="MTS-Docker" title="Docker (Containers)" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="MTS-MQTT" title="MQTT Broker (IoT/Sistemas Distribuídos)" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mqtt/mqtt-original.svg">
-</div>
-
----
-
-## 📞 Conecte-se Comigo
-
-Sinta-se à vontade para entrar em contato para discutir projetos, oportunidades ou apenas para trocar uma ideia!
-
-<div>
-   <a href="https://www.facebook.com/profile.php?id=100011562751616" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "matheusferreiradearaujo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-ferreira-de-araújo-0283021ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  <img align="center" alt="MTS-Git" title="Git" height="40" width="50" src="
