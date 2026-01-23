@@ -1,4 +1,4 @@
-### Olá 👋, eu sou Matheus Ferreira de Araújo, estudante de Ciência da Computação e um futuro programador 🧑‍💻!
+### Olá 👋, eu sou Matheus Ferreira de Araújo, formado em Ciência da Computação e um  programador FULLSTACK 🧑‍💻!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MTSaraujo29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache=false" alt="Estatísticas do GitHub do Matheus" />
