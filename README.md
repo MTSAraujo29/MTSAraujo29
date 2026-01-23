@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente, tenho **25 anos** e estou no **último ano da faculdade de Ciência da Computação** (CC).
+Atualmente, tenho **25 anos** e estou no **sou formado em Ciência da Computação** (CC).
 
 Minha paixão está no desenvolvimento de soluções, e já atuei em diversas áreas, com foco em projetos:
 * **Full Stack**
@@ -19,7 +19,7 @@ Minha paixão está no desenvolvimento de soluções, e já atuei em diversas á
 
 ### 🎓 TCC em Destaque
 
-Estou desenvolvendo meu **Trabalho de Conclusão de Curso (TCC)** com foco em **IoT (Internet das Coisas)**, buscando aplicar as melhores práticas e tecnologias para criar sistemas inteligentes.
+Meu **Trabalho de Conclusão de Curso (TCC)** foi feito com foco em **IoT (Internet das Coisas)**, buscando aplicar as melhores práticas e tecnologias para criar sistemas inteligentes.
 
 ---
 
