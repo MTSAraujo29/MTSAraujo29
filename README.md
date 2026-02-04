@@ -50,7 +50,6 @@ Minha stack de desenvolvimento inclui (mas não se limita a) as seguintes tecnol
 Sinta-se à vontade para entrar em contato para discutir projetos, oportunidades ou apenas para trocar uma ideia!
 
 <div>
-   <a href="https://www.facebook.com/profile.php?id=100011562751616" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "matheusferreiradearaujo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-ferreira-de-araújo-0283021ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mts.araujo00/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
