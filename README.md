@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente, tenho **25 anos** **sou formado em Ciência da Computação** (CC).
+Atualmente, tenho **26 anos** **sou formado em Ciência da Computação** (CC).
 
 Minha paixão está no desenvolvimento de soluções, e já atuei em diversas áreas, com foco em projetos:
 * **Full Stack**
